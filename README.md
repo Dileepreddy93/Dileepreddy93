@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dileepreddy93">
 
-<h1 align="center">🚀 Dileep Reddy | Tech Typhoon 🌪️</h1>
+<h1 align="center">🚀 Dileep Reddy | 🌪️</h1>
 <h3 align="center">AI-Driven Engineer | DevOps • MLOps • Cloud • Full Stack</h3>
 
 ---
