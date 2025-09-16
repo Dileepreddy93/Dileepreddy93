@@ -1,35 +1,43 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dileepreddy93">
+<img align="right" src="https://komarev.com/ghpvc/?username=Dileepreddy93&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 <h1 align="center">👋 Hi, I'm Dileep Reddy</h1>
-<h3 align="center">🌪️ Tech Typhoon | AI-Driven DevOps & Cloud Engineer 🚀</h3>
+<h3 align="center">🌪️ | AI-Driven DevOps & Cloud Engineer 🚀</h3>
+
+---
+
+## 💼 Quick Recruiter Snapshot
+- 📍 Location: India  
+- 🎓 B.Tech in Electronics & Communication Engineering  
+- 🔹 Skills: **DevOps, MLOps, Cloud (AWS/GCP/Azure), Full Stack, AI Automation**  
+- 🏆 Certifications: AWS, GCP, Azure, Kubernetes (CKA), Docker  
+- 🚀 Projects: NexusSentinelX, SmartCloud-OpsAI, AR Internship App  
+- 🎯 Career Goal: **DevOps/MLOps Engineer in product-driven company**  
 
 ---
 
 ## 🚀 About Me
-🔹 AI-powered DevOps • MLOps • Cloud-Native Systems  
-🔹 Full-Stack Engineering (React, Node.js, Python, C++)  
-🔹 Obsessed with **automation, scalability & cutting-edge infra**  
-🔹 B.Tech in **Electronics & Communication Engineering**  
-
-💡 My edge: **Bridging AI + DevOps** to create smarter, self-healing systems.  
+💡 Passionate about building **AI-powered, self-healing systems**.  
+🛠️ Experienced with **multi-cloud infra, MLOps pipelines & automation**.  
+🤝 Love contributing to **open-source cloud-native tooling**.  
+🎯 Currently learning: **Advanced Kubernetes, Cloud Security, FinOps**.  
 
 ---
 
 ## 🏆 Career Highlights
-- 🚀 Built **NexusSentinelX** — Real-time infra intelligence & observability platform.  
-- ☁️ Deployed **multi-cloud MLOps pipelines** using AWS, GCP, and Azure.  
-- 🧑‍🤝‍🧑 Contributed to **open-source DevOps tooling** (Terraform + Kubernetes modules).  
-- 🎯 Currently focusing on **Cloud Security & Advanced MLOps**.  
+- 🔹 Architected **NexusSentinelX** → AI-driven infra observability platform.  
+- 🔹 Built **SmartCloud OpsAI** → real-time cloud monitoring with Grafana + Prometheus.  
+- 🔹 Delivered **AR Internship App** → an Android AR-based learning platform.  
+- 🔹 Created **AI Automation Scripts** for system health + job automation.  
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Certifications
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Engineer-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-Certified%20Associate-2496ED?logo=docker&logoColor=white&style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Engineer-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Docker-Certified%20Associate-2496ED?logo=docker&logoColor=white&style=for-the-badge">
 </p>
 
 ---
@@ -37,7 +45,7 @@
 ## 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/Dileepreddy93/Dileep_devops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dileepreddy93&repo=Dileep_debops&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dileepreddy93&repo=Dileep_devops&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
   <a href="https://github.com/Dileepreddy93/SmartCloud-OpsAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dileepreddy93&repo=SmartCloud-OpsAI&theme=tokyonight&hide_border=true&border_radius=10" />
@@ -65,6 +73,24 @@
 
 ---
 
+## 📊 Extra Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dileepreddy93&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dileepreddy93&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dileepreddy93&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileepreddy93&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dileepreddy93&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dileepreddy93&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
 ## 🎶 Now Playing (Spotify)
 <p align="center">
   <a href="https://open.spotify.com/user/DileepReddy" target="_blank">
@@ -74,10 +100,17 @@
 
 ---
 
-## 🎯 2025 Roadmap  
+  
 ✅ Master **Cloud Security & FinOps**  
-✅ Contribute to **CNCF (Cloud Native Computing Foundation)** projects  
-🚀 Land a **DevOps/MLOps Engineer role** in a product-driven company  
+✅ Contribute to **CNCF projects**  
+🚀 Land a **DevOps/MLOps Engineer role**  
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
