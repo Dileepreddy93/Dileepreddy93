@@ -72,12 +72,17 @@
 
 ---
 
-<h2 align="center">🎶 Now Playing on Spotify 🎶</h2>
+---
+
+<h2 align="center">🎶 Now Playing on Spotify — DileepReddy 🎶</h2>
 <p align="center">
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
+  <a href="https://open.spotify.com/user/DileepReddy">
     <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
   </a>
 </p>
+
+---
+
 
 ---
 
