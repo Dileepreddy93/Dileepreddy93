@@ -5,7 +5,7 @@
 
 ---
 
-## 💼 Quick Recruiter Snapshot
+## 💼 Quick Snapshot
 - 📍 Location: India  
 - 🎓 B.Tech in Electronics & Communication Engineering  
 - 🔹 Skills: **DevOps, MLOps, Cloud (AWS/GCP/Azure), Full Stack, AI Automation**  
@@ -107,7 +107,7 @@
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
