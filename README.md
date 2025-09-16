@@ -16,12 +16,12 @@
 ---
 
 <p align="center">
-  Hi, I'm <b>TechTyphoon</b>, DevOps | MLOps | AI-Driven Engineer | Full Stack Developer 🌐 <br>
+  Hi, I'm <b>TechTyphoon (Dileep Reddy)</b> 🌪️ <br>
+  🚀 DevOps | MLOps | AI-Driven Engineer | Full Stack Developer 🌐 <br>
   📍 Based in India <br>
   🎓 B.Tech in Electronics & Communication Engineering <br>
   💻 Passionate about AI-powered DevOps, automation & open-source <br>
-  🚀 Exploring Cloud, MLOps pipelines, and full-stack projects <br>
-  📫 Reach me at: <a href="mailto:dileepreddy12345@gmail.com">dileepkumarreddy12345@gmail.com</a>
+  📫 Reach me at: <a href="mailto:dileepkumarreddy12345@gmail.com">dileepkumarreddy12345@gmail.com</a>
 </p>
 
 ---
@@ -52,14 +52,10 @@
 
 ---
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats & Activity ⚡</h2>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=Dileepreddy93&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="center" width="49%" src="https://streak-stats.demolab.com/?user=Dileepreddy93&theme=react&border=61dafb&hide_border=true" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dileepreddy93&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Dileepreddy93&theme=react&border=61dafb&hide_border=true" />
 </p>
 
 <p align="center">
@@ -68,6 +64,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dileepreddy93&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dileepreddy93&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -83,10 +83,14 @@
 
 <h2 align="center">📊 Contribution Breakdown 📊</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dileepreddy93/Dileepreddy93/output/github-contribution-grid-snake.svg" />
+</p>
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <details>
-  <summary>More Developer Stats</summary><br/>
+  <summary>📈 More Developer Stats</summary><br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0000%20hrs-blue)
