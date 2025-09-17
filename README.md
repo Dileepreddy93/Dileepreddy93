@@ -28,13 +28,13 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <!-- Card 1: Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dileepreddy93&theme=dracula" width="95%"/>
+  <!-- Card 1: Profile Details (Compact) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dileepreddy93&theme=gruvbox&hide_border=true" width="80%"/>
 </p>
 
 <p align="center">
-  <!-- Card 2: Combined Productivity + Languages + Repo Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileepreddy93&theme=dracula&count_private=true&hide_border=false&show_icons=true" width="95%"/>
+  <!-- Card 2: Combined Productivity + Languages + Repo Stats (Compact) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileepreddy93&theme=gruvbox&count_private=true&hide_border=true&show_icons=true" width="80%"/>
 </p>
 
 ---
