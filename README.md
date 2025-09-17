@@ -77,8 +77,16 @@
 
 ## 📬 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/" target="_blank"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-  <a href="https://github.com/Dileepreddy93" target="_blank"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
-  <a href="https://x.com/" target="_blank"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
-  <a href="https://www.instagram.com/dileeepreddy" target="_blank"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"></a>
+  <a href="https://www.linkedin.com/in/dileepreddy" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Dileepreddy93" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)"/>
+  </a>
+  <a href="https://www.instagram.com/dileeepreddy" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram"/>
+  </a>
 </p>
