@@ -78,15 +78,16 @@
 ## 📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/dileepreddy" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn"/>
+    <img height="45" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Dileepreddy93" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub"/>
+    <img height="45" src="https://img.icons8.com/material-outlined/48/github.png" alt="GitHub"/>
   </a>
   <a href="https://x.com/" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)"/>
+    <img height="45" src="https://img.icons8.com/ios-filled/50/twitterx.png" alt="X"/>
   </a>
   <a href="https://www.instagram.com/dileeepreddy" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram"/>
+    <img height="45" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
 </p>
+
