@@ -44,9 +44,12 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dileepreddy93&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://img.icons8.com/color/96/medal.png" alt="Medal" title="Open Source Contributor"/>
+  <img src="https://img.icons8.com/color/96/trophy.png" alt="Trophy" title="Hackathon Winner"/>
+  <img src="https://img.icons8.com/color/96/certificate.png" alt="Certificate" title="Cloud Certifications"/>
+  <img src="https://img.icons8.com/color/96/project.png" alt="Projects" title="20+ Projects"/>
 </p>
 
 ---
