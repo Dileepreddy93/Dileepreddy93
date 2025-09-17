@@ -3,33 +3,12 @@
 <h1 align="center">👋 Hi, I'm Dileep Reddy</h1>
 <h3 align="center">🌪️ | AI-Driven DevOps & Cloud Engineer 🚀</h3>
 
----
-
-## 💼 Quick Snapshot
-- 📍 Location: India  
-- 🎓 B.Tech in Electronics & Communication Engineering  
-- 🔹 Skills: **DevOps, MLOps, Cloud (AWS/GCP/Azure), Full Stack, AI Automation**  
-- 🏆 Certifications: AWS, GCP, Azure, Kubernetes (CKA), Docker  
-- 🚀 Projects: NexusSentinelX, SmartCloud-OpsAI, AR Internship App  
-- 🎯 Career Goal: **DevOps/MLOps Engineer in product-driven company**  
-
----
-
 ## 🚀 About Me
 💡 Passionate about building **AI-powered, self-healing systems**.  
 🛠️ Experienced with **multi-cloud infra, MLOps pipelines & automation**.  
 🤝 Love contributing to **open-source cloud-native tooling**.  
 🎯 Currently learning: **Advanced Kubernetes, Cloud Security, FinOps**.  
 
----
-
-## 🏆 Career Highlights
-- 🔹 Architected **NexusSentinelX** → AI-driven infra observability platform.  
-- 🔹 Built **SmartCloud OpsAI** → real-time cloud monitoring with Grafana + Prometheus.  
-- 🔹 Delivered **AR Internship App** → an Android AR-based learning platform.  
-- 🔹 Created **AI Automation Scripts** for system health + job automation.  
-
----
 
 ## 📜 Certifications
 <p align="center">
@@ -88,24 +67,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dileepreddy93&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
 </p>
-
----
-
-## 🎶 Now Playing (Spotify)
-<p align="center">
-  <a href="https://open.spotify.com/user/DileepReddy" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=DileepReddy&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&bar_color=61dafb&bar_color_cover=true" />
-  </a>
-</p>
-
----
-
-  
-✅ Master **Cloud Security & FinOps**  
-✅ Contribute to **CNCF projects**  
-🚀 Land a **DevOps/MLOps Engineer role**  
-
----
 
 ## ✍️Quote
 <p align="center">
