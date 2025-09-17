@@ -28,14 +28,14 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <!-- Combined GitHub Stats (Contributions + Languages + Activity) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dileepreddy93&theme=tokyonight" width="95%"/>
+  <!-- Card 1: Profile Details (Contributions, Commits, Streaks, Top Repos) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dileepreddy93&theme=dracula" width="95%"/>
 </p>
 
 <p align="center">
-  <!-- Productivity + Most Used Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileepreddy93&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dileepreddy93&theme=tokyonight" width="48%"/>
+  <!-- Card 2: Combined Productivity + Most Used Languages + Repo Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileepreddy93&theme=dracula" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dileepreddy93&theme=dracula" width="48%"/>
 </p>
 
 ---
