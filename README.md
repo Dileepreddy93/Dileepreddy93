@@ -46,10 +46,11 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://img.icons8.com/color/96/medal.png" alt="Medal" title="Open Source Contributor"/>
-  <img src="https://img.icons8.com/color/96/trophy.png" alt="Trophy" title="Hackathon Winner"/>
-  <img src="https://img.icons8.com/color/96/certificate.png" alt="Certificate" title="Cloud Certifications"/>
-  <img src="https://img.icons8.com/color/96/project.png" alt="Projects" title="20+ Projects"/>
+  <img src="https://img.icons8.com/color/96/medal-second-place.png" alt="Open Source" title="Open Source Contributor"/>
+  <img src="https://img.icons8.com/color/96/trophy.png" alt="Hackathon" title="Hackathon Winner"/>
+  <img src="https://img.icons8.com/color/96/diploma.png" alt="Certifications" title="Cloud Certified"/>
+  <img src="https://img.icons8.com/color/96/task.png" alt="Projects" title="20+ Projects Completed"/>
+  <img src="https://img.icons8.com/color/96/brainstorm-skill.png" alt="Skills" title="AI/ML & DevOps Expertise"/>
 </p>
 
 ---
