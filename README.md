@@ -2,27 +2,17 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3DF7E7&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Dileep+Reddy;AI-Driven+DevOps+%26+Cloud+Engineer;Full+Stack+Developer+%7C+MLOps+%7C+AI;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I'm+Dileep+Reddy;AI-Driven+DevOps+Engineer;Cloud+%7C+MLOps+%7C+Full+Stack+Developer;Welcome+to+my+GitHub!&center=true&size=28&color=36BCF7">
   </a>
 </h1>
 
-<h3 align="center">🌪️ Building intelligent, self-healing, cloud-native systems 🚀</h3>
-
 ---
 
-## 🚀 About Me  
-💡 Passionate about **AI-powered automation & DevOps**  
-☁️ Skilled in **Multi-Cloud | MLOps | Full-Stack | Infra as Code**  
-🛠️ Exploring **Kubernetes Security, FinOps, Observability**  
-🤝 Active in **Open Source & Cloud-Native Projects**  
-📩 Reach me: [dileepkumarreddy12345@gmail.com](mailto:dileepkumarreddy12345@gmail.com)  
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,js,cpp,react,nextjs,nodejs,aws,gcp,azure,docker,kubernetes,terraform,ansible,linux,git,githubactions,jenkins,mysql,postgres,mongodb,pytorch,tensorflow&perline=10" />
-</p>
+## 🚀 About Me
+💡 Passionate about building **AI-powered, self-healing systems**  
+🛠️ Skilled in **multi-cloud infra, MLOps pipelines & automation**  
+🤝 Active contributor to **open-source cloud-native tools**  
+🎯 Currently learning: **Advanced Kubernetes, Cloud Security, FinOps**  
 
 ---
 
@@ -49,26 +39,17 @@
 
 ---
 
-## 📊 GitHub Insights
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dileepreddy93&theme=tokyonight" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dileepreddy93&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileepreddy93&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dileepreddy93&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dileepreddy93&theme=tokyonight" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=python,typescript,js,cpp,react,aws,gcp,azure,docker,kubernetes,terraform,ansible,linux,mysql,postgres,mongodb,pytorch,tensorflow,githubactions&perline=9" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dileepreddy93&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dileepreddy93&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Dileepreddy93&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -80,17 +61,24 @@
 
 ---
 
-## ✍️ Quote of the Day
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dileepreddy93&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## ✍️ Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/Dileepreddy93" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://x.com/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.instagram.com/dileeepreddy" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://github.com/Dileepreddy93" target="_blank"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  <a href="https://x.com/" target="_blank"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
+  <a href="https://www.instagram.com/dileeepreddy" target="_blank"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"></a>
 </p>
