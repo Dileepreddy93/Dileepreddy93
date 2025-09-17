@@ -26,13 +26,16 @@
 ---
 
 ## 📊 GitHub Insights
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dileepreddy93&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Dileepreddy93&theme=tokyonight&hide_border=true" />
+  <!-- Combined GitHub Stats (Contributions + Languages + Activity) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dileepreddy93&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dileepreddy93&theme=tokyonight" width="95%"/>
+  <!-- Productivity + Most Used Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileepreddy93&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dileepreddy93&theme=tokyonight" width="48%"/>
 </p>
 
 ---
